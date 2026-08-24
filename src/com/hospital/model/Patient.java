@@ -1,12 +1,13 @@
 package com.hospital.model;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 public class Patient extends Person {
 	private String diseaseInfo;
 	private String assignedDoctorId;
 	private String bloodGroup;
-	private LocalDate admissionDate;
+	private LocalDateTime admissionDateAndTime;
 
 	public Patient(String name, String contactNumber, int age, String diseaseInfo, String assignedDoctorId,
 			String bloodGroup) {
@@ -14,7 +15,7 @@ public class Patient extends Person {
 		this.diseaseInfo = diseaseInfo;
 		this.assignedDoctorId = assignedDoctorId;
 		this.bloodGroup = bloodGroup;
-		this.admissionDate = LocalDate.now();
+		this.admissionDateAndTime = LocalDateTime.now();
 	}
 
 	@Override
@@ -46,17 +47,17 @@ public class Patient extends Person {
 		this.bloodGroup = bloodGroup;
 	}
 
-	public LocalDate getAdmissionDate() {
-		return admissionDate;
+	public LocalDateTime getAdmissionDate() {
+		return admissionDateAndTime;
 	}
 
-	public void setAdmissionDate(LocalDate admissionDate) {
-		this.admissionDate = admissionDate;
+	public void setAdmissionDate(LocalDateTime admissionDate) {
+		this.admissionDateAndTime = admissionDate;
 	}
 
 	@Override
 	public String toString() {
 		return super.toString() + ", Patient [diseaseInfo=" + diseaseInfo + ", assignedDoctorId=" + assignedDoctorId
-				+ ", bloodGroup=" + bloodGroup + ", admissionDate=" + admissionDate + "]";
+				+ ", bloodGroup=" + bloodGroup + ", admissionDateAndTime=" + admissionDateAndTime + "]";
 	}
 }
