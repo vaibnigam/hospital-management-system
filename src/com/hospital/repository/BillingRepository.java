@@ -32,4 +32,18 @@ public class BillingRepository {
 
         return billings;
     }
+    public Billing findByBillId(String billId) {
+
+        for (List<Billing> billings : billingsByPatient.values()) {
+
+            for (Billing billing : billings) {
+
+                if (billing.getBillId().equals(billId)) {
+                    return billing;
+                }
+            }
+        }
+
+        return null;
+    }
 }
