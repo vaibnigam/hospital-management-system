@@ -8,27 +8,28 @@ import java.util.Map;
 import com.hospital.model.Patient;
 
 public class PatientRepository {
-	private Map<String, Patient> patients = new HashMap<>();
 
-	public void addPatient(Patient patient) {
-		patients.put(patient.getId(), patient);
-	}
+    private Map<String, Patient> patients = new HashMap<>();
 
-	public Patient findById(String id) {
-		return patients.get(id);
-	}
+    public void addPatient(Patient patient) {
+        patients.put(patient.getId(), patient);
+    }
 
-	public List<Patient> getAllPatients() {
-		return new ArrayList<Patient>(patients.values());
-	}
+    public Patient findById(String id) {
+        return patients.get(id);
+    }
 
-	public List<Patient> findByName(String name) {
-		List<Patient> result = new ArrayList<>();
-		for (Patient p : patients.values()) {
-			if (p.getName().toLowerCase().contains(name.toLowerCase())) {
-				result.add(p);
-			}
-		}
-		return result;
-	}
+    public List<Patient> findByName(String name) {
+        List<Patient> result = new ArrayList<>();
+        for (Patient p : patients.values()) {
+            if (p.getName().toLowerCase().contains(name.toLowerCase())) {
+                result.add(p);
+            }
+        }
+        return result;
+    }
+
+    public List<Patient> getAllPatients() {
+        return new ArrayList<Patient>(patients.values());
+    }
 }
