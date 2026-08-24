@@ -1,19 +1,19 @@
 package com.hospital.model;
 
-import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 public class Billing {
 	private String billId;
 	private String patientId;
 	private double amount;
 	private BillingStatus status;
-	private LocalDate billingDate;
+	private LocalDateTime billingDateTime;
 
 	public Billing(String patientId, double amount) {
 		this.patientId = patientId;
 		this.amount = amount;
 		this.status = BillingStatus.PENDING;
-		this.billingDate = LocalDate.now();
+		this.billingDateTime = LocalDateTime.now();
 	}
 
 	public String getBillId() {
@@ -48,17 +48,17 @@ public class Billing {
 		this.status = status;
 	}
 
-	public LocalDate getBillingDate() {
-		return billingDate;
+	public LocalDateTime getBillingDateTime() {
+		return billingDateTime;
 	}
 
-	public void setBillingDate(LocalDate billingDate) {
-		this.billingDate = billingDate;
+	public void setBillingDateTime(LocalDateTime billingDateTime) {
+		this.billingDateTime = billingDateTime;
 	}
 
 	@Override
 	public String toString() {
 		return "Billing [billId=" + billId + ", patientId=" + patientId + ", amount=" + amount + ", status=" + status
-				+ ", billingDate=" + billingDate + "]";
+				+ ", billingDateTime=" + billingDateTime + "]";
 	}
 }
