@@ -1,0 +1,20 @@
+Tarun Gupta,9798935572,33,Dermatology,1500,8
+Deepika Pandey,6644854973,43,Cardiology,500,29
+Ashish Patel,7197402358,65,General Medicine,400,9
+Kabir Chawla,6719659571,55,Cardiology,700,4
+Uma Malhotra,8550047120,39,Oncology,500,21
+Uma Rawat,7210655224,42,Gynecology,500,6
+Vishal Reddy,7633021001,64,General Medicine,900,31
+Bharti Trivedi,8421872363,45,Orthopedics,700,7
+Ajay Agarwal,9468804211,58,Neurology,500,9
+Nitin Choudhary,7912973887,51,Orthopedics,1200,28
+Ananya Arora,6920951719,65,Psychiatry,900,23
+Sanjay Vardhan,9722657734,59,Dermatology,500,19
+Indira Bhalla,6165143298,49,Urology,1200,20
+Yuvraj Thakur,8124226753,59,Gynecology,600,9
+Lokesh Reddy,7924883888,48,Orthopedics,700,27
+Kritika Bhatia,6278634438,58,General Medicine,1500,19
+Meera Bhatt,8858487694,56,Gynecology,1000,16
+Riya Iyer,7262455407,44,Urology,700,2
+Komal Pandey,7382122033,48,Cardiology,600,28
+Rakesh Kaur,8234745481,62,Psychiatry,400,31

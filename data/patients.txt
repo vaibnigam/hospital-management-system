@@ -1,0 +1,100 @@
+Hitesh Rawat,9527424008,52,Kidney Stone,O-
+Jatin Chawla,9166838090,25,Diabetes,A-
+Deepa Rao,6465129829,77,Fracture,O-
+Rahul Das,7676189932,13,Back Pain,O+
+Neha Desai,9259504871,82,Chest Pain,B-
+Eshan Kaur,9231900842,15,Thyroid Issue,AB-
+Jatin Dutta,8192217959,19,Migraine,B-
+Bindu Chopra,9989976686,89,Skin Allergy,O+
+Dev Mishra,8257413274,89,Eye Infection,O+
+Farhan Mishra,8790326952,12,Chest Pain,B-
+Tanvi Vardhan,7671866729,70,Ear Infection,B-
+Kunal Verma,7965520292,31,Kidney Stone,A-
+Aisha Mishra,9481782371,4,Fever,B+
+Indira Chopra,7843589769,78,Back Pain,AB-
+Zoya Vardhan,8186477158,29,Migraine,A-
+Indira Joshi,8319444228,62,Typhoid,O+
+Jatin Oberoi,8958610934,83,Diabetes,O-
+Sahil Shankar,7613283748,23,Food Poisoning,B-
+Kavya Nambiar,9597314843,52,Diabetes,A+
+Tanvi Malhotra,6262296831,76,Anxiety,A+
+Girish Chauhan,9805736454,45,Hypertension,A+
+Amit Sharma,6665412094,18,Food Poisoning,A-
+Nisha Singh,8328470563,38,Ear Infection,A-
+Farhan Pandey,8378490828,70,Food Poisoning,A+
+Divya Tandon,8591946611,85,Dengue,AB+
+Madhavi Malhotra,7662110918,66,Fever,AB-
+Hitesh Menon,6933265493,20,Skin Allergy,A+
+Indira Warsi,6697511159,8,Cold and Cough,AB-
+Hitesh Mehta,6366818750,25,Chest Pain,O+
+Geeta Mehta,9703152336,4,Diabetes,AB-
+Tarun Warsi,7843814251,36,Anxiety,AB-
+Madhavi Kapoor,8700773368,26,Anxiety,A+
+Ashish Nair,9574720684,41,Diabetes,A-
+Bhavna Patel,7818840243,39,Migraine,A+
+Yuvraj Oberoi,8253522529,33,Hypertension,AB-
+Kabir Tandon,6527625057,63,Skin Allergy,A-
+Aryan Shankar,9653626718,52,Cold and Cough,AB+
+Aisha Vardhan,8198992583,47,Fever,B-
+Tanmay Trivedi,9855003041,3,Kidney Stone,B-
+Om Warsi,8650037437,9,Migraine,A-
+Pooja Iyer,8391972375,6,Skin Allergy,B+
+Damini Malhotra,9825821165,34,Kidney Stone,A+
+Rakesh Rana,9852067507,42,Diabetes,B+
+Divya Bhalla,7556680688,10,Chest Pain,O+
+Kunal Iyer,8189917850,78,Asthma,O-
+Preeti Nair,9112397776,44,Eye Infection,AB+
+Gaurav Warsi,7146391758,68,Asthma,O-
+Aryan Chopra,6294504003,26,Pregnancy Checkup,B+
+Payal Kulkarni,7411343078,58,Ear Infection,A+
+Gaurav Vardhan,6368917310,5,Fever,O+
+Anand Rana,7652155530,61,Asthma,AB-
+Pooja Arora,9804921640,64,Eye Infection,AB+
+Madhavi Agarwal,7346494886,44,Arthritis,A+
+Naveen Vardhan,6998709387,17,Fever,O-
+Jyoti Tandon,8562504317,21,Fracture,O-
+Omkar Thakur,8742933425,32,Pregnancy Checkup,O+
+Gauri Menon,7388875967,58,Fever,B+
+Deepika Saxena,8362472429,5,Pregnancy Checkup,A-
+Ravi Menon,6460060835,49,Diabetes,AB-
+Shreya Rana,7366480598,65,Fever,O-
+Preeti Iyer,7528971850,76,Fracture,AB+
+Amit Agarwal,8776102887,30,Diabetes,A+
+Nandini Shankar,9920673058,42,Thyroid Issue,A+
+Rajat Nambiar,7147017079,66,Food Poisoning,A+
+Payal Kulkarni,6987350033,88,Dengue,A-
+Arjun Singh,6242907728,82,Back Pain,O-
+Anjali Sinha,6774059801,3,Eye Infection,A-
+Komal Chopra,6590644740,9,Ear Infection,O-
+Nandini Mishra,6900719241,61,Chest Pain,O-
+Preeti Kapoor,7347751030,84,Anxiety,AB-
+Anjali Patel,9834113597,37,Fracture,A-
+Neha Chauhan,7456238486,33,Pregnancy Checkup,A+
+Priya Dutta,6621621687,35,Migraine,A-
+Pallavi Bhatia,8861144359,67,Pregnancy Checkup,AB-
+Hemant Trivedi,6689566415,26,Pregnancy Checkup,O-
+Indira Singh,8592816174,10,Ear Infection,AB-
+Gaurav Thakur,7326246848,10,Dengue,O-
+Nikhil Tandon,8486067715,17,Typhoid,B+
+Aditya Shankar,8348446255,64,Thyroid Issue,AB+
+Sneha Rao,6627954674,88,Anxiety,AB+
+Nidhi Nambiar,7546871154,45,Kidney Stone,B-
+Ishita Saxena,6448480313,44,Kidney Stone,O-
+Aisha Shankar,6894469979,38,Chest Pain,B-
+Karan Sheikh,9732623619,10,Back Pain,AB+
+Damini Pillai,6401332446,14,Fracture,B+
+Kunal Gupta,7385323284,56,Ear Infection,B-
+Yash Nagpal,8943040526,55,Fever,AB+
+Tanmay Ghosh,7872635177,11,Fracture,AB+
+Faisal Warsi,7792016625,37,Thyroid Issue,O+
+Tanmay Malhotra,7607003804,54,Cold and Cough,B+
+Nidhi Chopra,8536163878,84,Asthma,B+
+Jatin Ghosh,9228572554,22,Skin Allergy,O-
+Dev Rana,9690973051,29,Anxiety,B-
+Farhan Sinha,9249890132,71,Arthritis,A-
+Kavya Menon,8696865256,12,Cold and Cough,A-
+Mohit Chopra,7121562591,53,Kidney Stone,AB+
+Cyrus Mishra,7504656588,35,Cold and Cough,O+
+Lokesh Pillai,8235155965,88,Ear Infection,A-
+Kavya Pillai,7512918974,52,Anxiety,AB+
+Sameer Singh,7134621185,55,Thyroid Issue,AB-
