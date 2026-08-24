@@ -17,8 +17,7 @@ public class PatientService {
     }
 
     public Patient addPatient(String name, String contactNumber, int age,
-                              String diseaseInfo, String assignedDoctorId,
-                              String bloodGroup) {
+                              String diseaseInfo, String bloodGroup) {
 
         if (name == null || name.trim().isEmpty()) {
             return null;
@@ -33,7 +32,7 @@ public class PatientService {
         String patientId = "P" + nextPatientId;
         nextPatientId++;
 
-        Patient patient = new Patient(name, contactNumber, age, diseaseInfo, assignedDoctorId, bloodGroup);
+        Patient patient = new Patient(name, contactNumber, age, diseaseInfo, "Not Assigned", bloodGroup);
         patient.setId(patientId);
 
         patientRepository.addPatient(patient);
