@@ -1,9 +1,9 @@
 package com.hospital.model;
 
 public class Admin extends Person {
-    private String accessLevel;
+    private AdminAccessLevel accessLevel;
 
-    public Admin(String name, String contactNumber, int age, String accessLevel) {
+    public Admin(String name, String contactNumber, int age, AdminAccessLevel accessLevel) {
         super(name, contactNumber, age);
         this.accessLevel = accessLevel;
     }
@@ -13,11 +13,11 @@ public class Admin extends Person {
         return "Admin";
     }
 
-    public String getAccessLevel() {
+    public AdminAccessLevel getAccessLevel() {
         return accessLevel;
     }
 
-    public void setAccessLevel(String accessLevel) {
+    public void setAccessLevel(AdminAccessLevel accessLevel) {
         this.accessLevel = accessLevel;
     }
 
